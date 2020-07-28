@@ -14,6 +14,8 @@
 		3660FE5924CB228D00F92FC1 /* mini_project_2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3660FE5724CB228D00F92FC1 /* mini_project_2.xcdatamodeld */; };
 		3660FE5B24CB228E00F92FC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3660FE5A24CB228E00F92FC1 /* Assets.xcassets */; };
 		3660FE5E24CB228E00F92FC1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3660FE5C24CB228E00F92FC1 /* LaunchScreen.storyboard */; };
+		3660FE6624CB303300F92FC1 /* SecondvViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3660FE6524CB303300F92FC1 /* SecondvViewController.swift */; };
+		3660FE6824CB30DA00F92FC1 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3660FE6724CB30DA00F92FC1 /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		3660FE5A24CB228E00F92FC1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3660FE5D24CB228E00F92FC1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3660FE5F24CB228E00F92FC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3660FE6524CB303300F92FC1 /* SecondvViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondvViewController.swift; sourceTree = "<group>"; };
+		3660FE6724CB30DA00F92FC1 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				3660FE5024CB228D00F92FC1 /* SceneDelegate.swift */,
 				3660FE5224CB228D00F92FC1 /* ViewController.swift */,
 				3660FE5424CB228D00F92FC1 /* Main.storyboard */,
+				3660FE6724CB30DA00F92FC1 /* ThirdViewController.swift */,
+				3660FE6524CB303300F92FC1 /* SecondvViewController.swift */,
 				3660FE5A24CB228E00F92FC1 /* Assets.xcassets */,
 				3660FE5C24CB228E00F92FC1 /* LaunchScreen.storyboard */,
 				3660FE5F24CB228E00F92FC1 /* Info.plist */,
@@ -145,6 +151,8 @@
 				3660FE4F24CB228D00F92FC1 /* AppDelegate.swift in Sources */,
 				3660FE5124CB228D00F92FC1 /* SceneDelegate.swift in Sources */,
 				3660FE5924CB228D00F92FC1 /* mini_project_2.xcdatamodeld in Sources */,
+				3660FE6824CB30DA00F92FC1 /* ThirdViewController.swift in Sources */,
+				3660FE6624CB303300F92FC1 /* SecondvViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
